@@ -17,9 +17,13 @@ h6 {
   font-weight: 700;
   font-family: 'Montserrat';
 }
-.img-fluid {
+#pro-pic {
   width: 250px;
   border-radius: 50%;
+}
+.portfolio-item-tech-ul {
+  list-style: none;
+  padding: 0px;
 }
 hr.star-light,
 hr.star-dark {
