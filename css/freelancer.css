@@ -47,20 +47,14 @@ h6 {
 .skills-ul div {
   margin-right: 20px;
 } 
-/* .skills-ul ul {
-  padding-left: 10px;
-} */
-.skills-ul .frameworks {
+.links {
+   list-style: none;
+   display: flex;
+   flex-direction: column;
+}
+.links a {
+  color: inherit;
 
-}
-.skills-ul .libraries {
-  
-}
-.skills-ul .languages {
-  
-}
-.skills-ul .other {
-  
 }
 
 
