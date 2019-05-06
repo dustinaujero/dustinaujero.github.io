@@ -17,6 +17,11 @@ h6 {
   font-weight: 700;
   font-family: 'Montserrat';
 }
+
+
+
+
+
 #pro-pic {
   width: 250px;
   border-radius: 50%;
@@ -25,6 +30,53 @@ h6 {
   list-style: none;
   padding: 0px;
 }
+.education-ul {
+  list-style: none;
+  padding: 0px;
+}
+.skills-ul {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 0px;
+}
+.skills-ul strong{
+  text-decoration: underline;
+}
+.skills-ul div {
+  margin-right: 20px;
+} 
+/* .skills-ul ul {
+  padding-left: 10px;
+} */
+.skills-ul .frameworks {
+
+}
+.skills-ul .libraries {
+  
+}
+.skills-ul .languages {
+  
+}
+.skills-ul .other {
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 hr.star-light,
 hr.star-dark {
   max-width: 15rem;
