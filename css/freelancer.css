@@ -59,6 +59,9 @@ h6 {
 .exp-ul {
   padding-left: 0px;
 }
+.exp-ul hr{
+  color: red;
+}
 
 
 
